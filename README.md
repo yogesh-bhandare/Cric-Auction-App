@@ -46,19 +46,19 @@ Before proceeding with the installation, ensure that you have the following prer
      npm install
      ```
 
-### 6. Running Expo App
+### 4. Running Expo App
 
 1. **Start the Development Server:**
    - Navigate to your project directory in the terminal.
    - Run the following command to start the Expo development server:
      ```
-     npm start
+     npm expo start
      ```
 
 2. **Run on Device or Simulator:**
    - Follow the instructions printed in the terminal to run the app on your device or simulator.
 
-### 7. Downloading Expo App on Mobile
+### 5. Downloading Expo App on Mobile
 
 1. **Download Expo Client:**
    - Install the Expo Client app on your iOS or Android device from the [App Store](https://apps.apple.com/us/app/expo-go/id982107779) or [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US).
