@@ -443,7 +443,7 @@ const App = () => {
       <View style={styles.mainContainer}>
         <View style={styles.box}>
           <View style={styles.headingContainer}>
-            <Text style={styles.heading}>PIMPRI PANTHERS</Text>
+            <Text style={styles.heading}>Team 1</Text>
             <Text style={styles.amtTitle}>Amount left</Text>
             <Text style={styles.heading}>{remainingAmount} L</Text>
           </View>
