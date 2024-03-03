@@ -1,73 +1,35 @@
-# Circ-Auction-App React Native Expo Installation Guide
+![Cric-Auc](Cric-Auc.png)
 
-This guide provides step-by-step instructions to set up the development environment for the Circ-Auction-App project using React Native Expo.
+# Circ-Auc - Cricket Auction App
 
-## Prerequisites
+Circ-Auc is a cricket auction app developed by [Your Team Name] for InfusionX, our college event. It adds a technical touch to the non-technical event by providing a digital platform for conducting cricket auctions.
 
-Before proceeding with the installation, ensure that you have the following prerequisites installed on your system:
+## Features
 
-- Node.js
-- npm (Node Package Manager)
+- **Player Display**: Players are displayed in card format showcasing their image, name, and the price they were sold for during the auction.
+- **Purse Management**: The app dynamically updates the total purse of each team by deducting the price of players bought during the auction.
+- **Interactive UI**: The app features an intuitive and user-friendly interface designed using React Native and Expo.
+- **IPL Theme Music**: Adds a touch of excitement with background music reminiscent of the Indian Premier League (IPL).
+- **Responsive Design**: The app is built using React Native, ensuring compatibility across various devices and screen sizes.
 
-## Installation Process
+## Team Members
+- Yogesh Bhandare
+- Rajat Pawar
+- Aditya Damse
 
-### 1. Node.js Installation and Setup
+## Technologies Used
+- React Native
+- Expo
+- JavaScript
+- HTML/CSS
 
-1. **Download Node.js:**
-   - Visit the [official Node.js website](https://nodejs.org/) and download the latest version of Node.js for your operating system.
+## Project Duration
+4 days
 
-2. **Install Node.js:**
-   - Follow the installation instructions provided on the Node.js website for your specific operating system.
-
-3. **Verify Installation:**
-   - After the installation is complete, open a terminal or command prompt.
-   - Run the following commands to verify that Node.js and npm are installed correctly:
-     ```
-     node -v
-     npm -v
-     ```
-   - These commands should display the installed version of Node.js and npm respectively.
-
-### 2. React Native Expo Installation
-
-1. **Install Expo CLI:**
-   - Open a terminal or command prompt.
-   - Run the following command to install Expo CLI globally:
-     ```
-     npm install -g expo-cli
-     ```
-
-### 3. Node Module Installation
-
-1. **Install Node Modules:**
-   - Navigate to your project directory in the terminal.
-   - Run the following command to install the required Node modules:
-     ```
-     npm install
-     ```
-
-### 6. Running Expo App
-
-1. **Start the Development Server:**
-   - Navigate to your project directory in the terminal.
-   - Run the following command to start the Expo development server:
-     ```
-     npm start
-     ```
-
-2. **Run on Device or Simulator:**
-   - Follow the instructions printed in the terminal to run the app on your device or simulator.
-
-### 7. Downloading Expo App on Mobile
-
-1. **Download Expo Client:**
-   - Install the Expo Client app on your iOS or Android device from the [App Store](https://apps.apple.com/us/app/expo-go/id982107779) or [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US).
-
-2. **Scan QR Code:**
-   - Once the Expo development server is running, use the Expo Client app to scan the QR code displayed in the terminal to open your app on your mobile device.
-
-## Additional Resources
-
-- [Node.js Official Website](https://nodejs.org/)
-- [Expo Documentation](https://docs.expo.dev/)
-
+## How to Run
+1. Clone the repository: `git clone https://github.com/yourusername/circ-auc.git`
+2. Ensure you have node.js installed
+3. Navigate to the project directory: `cd circ-auc`
+4. Install dependencies: `npm install`
+5. Start the Expo server: `npm start`
+6. Scan the QR code using the Expo Go app on your mobile device or run on an emulator.
