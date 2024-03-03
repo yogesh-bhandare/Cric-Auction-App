@@ -1,4 +1,4 @@
-![Screenshot 1](Cric-Auc.png)
+![Cric-Auc](Cric-Auc.png)
 # Circ-Auc - Cricket Auction App
 
 Circ-Auc is a cricket auction app developed by [Your Team Name] for InfusionX, our college event. It adds a technical touch to the non-technical event by providing a digital platform for conducting cricket auctions.
