@@ -285,7 +285,7 @@ const App = () => {
   // { id: 246, name: 'HEINRICH KLAASEN', type: 'Batsmen', basePrice: 1, pricePaid: 4, imgID: 'https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/322000/322073.png' },
   // { id: 247, name: 'ANMOLPREET SINGH', type: 'Batsmen', basePrice: 1, pricePaid: 4, imgID: 'https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/358000/358038.png' },
   // { id: 249, name: 'NITISH KUMAR REDDY', type: 'Batsmen', basePrice: 1, pricePaid: 4, imgID: 'https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/314800/314899.png' },
-  // { id: 250, name: 'TRAVIS HEAD', type: 'Batsmen', basePrice: 1, pricePaid: 4, imgID: 'https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321584.png' },
+  { id: 250, name: 'TRAVIS HEAD', type: 'Batsmen', basePrice: 1, pricePaid: 4, imgID: 'https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321500/321584.png' },
   // { id: 251, name: 'NEHAL WADHERA', type: 'Batsmen', basePrice: 1, pricePaid: 4, imgID: 'https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357800/357843.1.png' },
   // { id: 252, name: 'VIRENDER SEHWAG', type: 'Batsmen', basePrice: 1, pricePaid: 4, imgID: 'https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319953.png' },
   // { id: 253, name: 'CHRIS GAYLE', type: 'Batsmen', basePrice: 1, pricePaid: 4, imgID: 'https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316400/316494.png' },
