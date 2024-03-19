@@ -20,6 +20,7 @@ Through the development of Circ-Auc we gained valuable insights into mobile app 
 In the future, Circ-Auc will undergo further enhancements to enrich the auction experience. This includes refining the user interface, incorporating additional features for team management, and exploring opportunities for integrating advanced analytics to provide valuable insights during auctions. Additionally, we aim to expand the app's capabilities to support other sporting events and enhance its scalability and performance.
 
 ## Sanpshot
+![Cric-Auc](./Cric-Auc.png)
 
 
 ## How to Run
